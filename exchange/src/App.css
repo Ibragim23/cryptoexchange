@@ -201,6 +201,10 @@ box-shadow: 0px 4px 4px 0px #00000040;
 }
 
 
+#navIcons {
+  display: none;
+}
+
 /** main **/
 
 .App-main {
@@ -463,6 +467,10 @@ color: #BABFC7;
 @media screen and (max-width:767px) {
   .header_menu {
    display: none;
+  }
+
+  #navIcons {
+    display: block;
   }
 
   .main_content {
