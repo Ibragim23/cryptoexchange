@@ -12,7 +12,7 @@ function header() {
          <header className="App-header">
     
         <nav className="header_menu">
-            <img  src={logo} className='header_logo' alt='logo'/>  
+            <img src={logo} className='header_logo' alt='logo'/>  
           <ul className='header_menu_list'>
             <li><a href="./App.tsx">Главная</a></li>
             <li><a href="./">Лендинг</a></li>
